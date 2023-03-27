@@ -1,16 +1,30 @@
 Pour lancer va dans Textuel_app et lance run.py (il faut python3 !!)
 
-Les conjugs c pour les verbes réguliers
+Les conjugs c pour les verbes réguliers !!
 
 Temps disponnibles:
     futur:
         -Tous les verbes
     présent:
         - Tous les verbes (normalement)
+    imparfait:
+        - Tous les verbes
+    passé_composé (participe programmés):
+        Avoir:
+            - é
+        Etre:
+            - é
 
 !! Attention pour les verbes comme ir (2eme groupe) et ir(3eme groupe) j'ai fait radical:
     2eme groupe: ir1
     3eme groupe: ir2
+
+Les temps composés:
+    mettre la dernière du participe passé à la place du groupe (nous accorderons dans le besoin)
+    nous vous proposerons les conjugaisons avec être et avoir.
+
+
+
 
 Nous ajouterons d'autres temps au fur et a mesure des mises à jour !!
 
