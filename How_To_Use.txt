@@ -6,10 +6,11 @@ Temps disponnibles:
     futur:
         -Tous les verbes
     présent:
-        - Er
-        - Ir
+        - Tous les verbes (normalement)
 
-
+!! Attention pour les verbes comme ir (2eme groupe) et ir(3eme groupe) j'ai fait radical:
+    2eme groupe: ir1
+    3eme groupe: ir2
 
 Nous ajouterons d'autres temps au fur et a mesure des mises à jour !!
 
