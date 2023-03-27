@@ -1,0 +1,18 @@
+Pour lancer va dans Textuel_app et lance run.py (il faut python3 !!)
+
+Les conjugs c pour les verbes réguliers
+
+Temps disponnibles:
+    futur:
+        -Tous les verbes
+    présent:
+        - Er
+        - Ir
+
+
+
+Nous ajouterons d'autres temps au fur et a mesure des mises à jour !!
+
+Bonne Usage !!
+
+All Copyright reserved to Thony3ds (Anthony)
